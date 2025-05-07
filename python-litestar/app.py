@@ -1,7 +1,6 @@
 print("hello world")
 
 from litestar import Litestar, get
-from litestar.logging import LoggingConfig
 
 
 @get("/")
