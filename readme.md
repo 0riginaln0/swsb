@@ -2,7 +2,7 @@ It is what it is.
 
 `./bombardier -c 250 -n 10000000 http://localhost:8080`
 
-
+```
 Go
 
 Statistics        Avg      Stdev        Max
@@ -48,3 +48,4 @@ Python
   Errors:
        timeout - 4836
   Throughput:     1.43MB/s
+```
