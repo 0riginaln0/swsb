@@ -1,5 +1,4 @@
 import gleam/erlang/process
-import gleam/io
 import gleam/string_tree.{from_string}
 import mist
 import wisp.{type Request, type Response, Text}
