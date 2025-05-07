@@ -1,4 +1,4 @@
-# Stupid web server benchmark
+It is what it is.
 
 `./bombardier -c 250 -n 10000000 http://localhost:8080`
 
