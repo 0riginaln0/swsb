@@ -1,11 +1,11 @@
-It is what it is.
+# Stupid web server benchmark
 
 `./bombardier -c 250 -n 10000000 http://localhost:8080`
 
 ```
 Go
-
-Statistics        Avg      Stdev        Max
+  
+  Statistics        Avg      Stdev        Max
   Reqs/sec    221801.48   19056.72  282195.84
   Latency        1.12ms   284.86us    39.26ms
   HTTP codes:
@@ -49,3 +49,5 @@ Python
        timeout - 4836
   Throughput:     1.43MB/s
 ```
+
+
