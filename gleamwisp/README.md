@@ -1,3 +1,5 @@
+gleam run .
+
 # gleamwisp
 
 [![Package Version](https://img.shields.io/hexpm/v/gleamwisp)](https://hex.pm/packages/gleamwisp)
