@@ -4,7 +4,7 @@ It is what it is.
 
 ```
 Go
-  
+
   Statistics        Avg      Stdev        Max
   Reqs/sec    221801.48   19056.72  282195.84
   Latency        1.12ms   284.86us    39.26ms
@@ -12,6 +12,16 @@ Go
     1xx - 0, 2xx - 10000000, 3xx - 0, 4xx - 0, 5xx - 0
     others - 0
   Throughput:    38.94MB/s
+
+LuaJIT on Rust platform
+
+  Statistics        Avg      Stdev        Max
+  Reqs/sec     50032.90    8149.21   75533.49
+  Latency        4.99ms     2.45ms   158.40ms
+  HTTP codes:
+    1xx - 0, 2xx - 10000000, 3xx - 0, 4xx - 0, 5xx - 0
+    others - 0
+  Throughput:     8.78MB/s
 
 Java
 
@@ -49,5 +59,3 @@ Python
        timeout - 4836
   Throughput:     1.43MB/s
 ```
-
-
