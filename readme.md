@@ -13,15 +13,16 @@ Go
     others - 0
   Throughput:    38.94MB/s
 
-LuaJIT on Rust platform
+Lua 5.4 Astra runtime
 
   Statistics        Avg      Stdev        Max
-  Reqs/sec     50032.90    8149.21   75533.49
-  Latency        4.99ms     2.45ms   158.40ms
+  Reqs/sec     58399.78    2121.72   79024.64
+  Latency        4.28ms   203.08us    32.64ms
   HTTP codes:
     1xx - 0, 2xx - 10000000, 3xx - 0, 4xx - 0, 5xx - 0
     others - 0
-  Throughput:     8.78MB/s
+  Throughput:    10.25MB/s
+
 
 Java
 
