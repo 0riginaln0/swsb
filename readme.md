@@ -13,6 +13,7 @@ Go
     others - 0
   Throughput:    38.94MB/s
 
+
 Lua 5.4 Astra runtime
 
   Statistics        Avg      Stdev        Max
